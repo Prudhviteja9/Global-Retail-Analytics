@@ -33,12 +33,7 @@ To view the dashboards and work with the Power BI files:
 ## Usage
 This project can serve as a reference for analyzing e-commerce data or as a template for similar analyses in other sectors.
 
-## Contributing
-Contributions to the project are welcome! Please fork this repository and submit a pull request with your suggested changes.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgments
-- Thanks to Kaggle for hosting the dataset used in this analysis.
-- [Power BI](https://powerbi.microsoft.com/) for the analytical tools provided.
+
+
